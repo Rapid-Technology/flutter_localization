@@ -1,4 +1,4 @@
-# flutter_localization
+# Flutter Localization
 
 A new Flutter application.
 
