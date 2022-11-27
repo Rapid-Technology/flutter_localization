@@ -1,6 +1,6 @@
 # Flutter Localization
 
-A new Flutter application.
+[![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/53sWTXgzR0U/maxresdefault.jpg)](https://www.youtube.com/watch?v=53sWTXgzR0U)
 
 ## Getting Started
 
